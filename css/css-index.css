@@ -182,6 +182,8 @@ a:hover {
 }
 .head-btn {
 	margin-bottom: 150px;
+	white-space: normal !important;
+	word-wrap: break-word;
 }
 .option {
 	text-transform: uppercase;
